@@ -1,5 +1,5 @@
 # **First Project**
-<img src="https://github.com/wahyuwerayana/FirstProject_GameProgramming/assets/115724777/526169b9-be55-42a3-bff4-27071573373f" height="225px">
+<img src="https://github.com/wahyuwerayana/FirstProject_GameProgramming/assets/115724777/526169b9-be55-42a3-bff4-27071573373f" height="300px">
 
 ## 📄**About**
 This is the first project from the Game Programming Course. The project consist of attack animation, credit scene, and main menu UI.
